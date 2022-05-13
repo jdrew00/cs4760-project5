@@ -1,0 +1,26 @@
+Jacob Drew
+CS 4760
+Project Five
+
+* Incomplete *
+* Attempted steps 1 - 4 *
+
+whats working:
+-message queue
+-clock
+-system structure in shared memory
+-log file
+
+not working:
+-resource request / allocation
+-deadlock detection
+
+Version Control: https://github.com/jdrew00/4760-project4
+
+Description: process scheduling simulator
+
+How to run program:
+./master  [-t n] [-h]
+
+n number of slave processes to execute
+If n is over 18 it will be set to 18 for safety

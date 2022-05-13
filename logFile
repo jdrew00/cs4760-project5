@@ -1,0 +1,10 @@
+Data Received is : 
+Child pid from child process: 12689. resouce R1 remaining: 8. resouce R1 used: 3
+Child pid from child process: 12691. resouce R1 remaining: 9. resouce R1 used: 3
+Child pid from child process: 12690. resouce R1 remaining: 7. resouce R1 used: 3
+Child pid from child process: 12693. resouce R1 remaining: 6. resouce R1 used: 4
+Child pid from child process: 12694. resouce R1 remaining: 4. resouce R1 used: 6
+Child pid from child process: 12692. resouce R1 remaining: 5. resouce R1 used: 5
+
+R1 remaining resources : 4
+Time from shared memory clock: 6
